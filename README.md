@@ -44,7 +44,7 @@ I like computers:computer:, books:books:, music:musical_score:, and video-games:
 <img alt='CodeWars' src='https://www.codewars.com/users/GermanDG6/badges/large' />
 
 
-![German's github stats](https://github-readme-stats.vercel.app/api?username=GermanDG6)
+![German's github stats](https://github-readme-stats.vercel.app/api?username=GermanDG6&show_icons=true&theme=tokyonight)
 
 [linkedin]: https://www.linkedin.com/in/germandelgadogarcia/
 [Gmail]: mailto:germandg6@gmail.com
