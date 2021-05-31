@@ -1,10 +1,10 @@
-## Hi! I'm German D G :wave:
+# Hi! I'm German D G :wave:
 [<img align='left' alt=' GermanDG | LinkedIn' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2012/96/iconmonstr-linkedin-2.png' />][linkedin]
 [<img align='left' alt=' GermanDG | Gmail' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2018/96/iconmonstr-gmail-2.png' />][Gmail]
 [<img align='left' alt=' GermanDG | Whatsapp' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-whatsapp-2.png' />][whatsapp]
 
 <br/><hr>
-### I'm a Junior FullStack Developer.
+## I'm a Junior FullStack Developer.
 
   I love **nature** :evergreen_tree: and **sport** :mountain_bicyclist: (even more when I combine them :climbing:) and culture in general, but especially **music** :notes:. I am a **curious person** and I love to know why things happen :raised_eyebrow:.
 
@@ -17,7 +17,7 @@ Some of the own projects I did during the bootcamp are:
 <br/> [APPLANT]
 <br/>  **Now** it's time to continue learning and advancing in order to consolidate myself as a professional. I would love to be part of a team where I can contribute with my knowledge and continue to improve and grow as a professional.
 
-###Technologies:
+### Technologies:
 <br/>
 <br/>
 <img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic' />
@@ -34,7 +34,7 @@ Some of the own projects I did during the bootcamp are:
 <br/>
 <br/>
 
-###Other utilities:
+### Other utilities:
 <br/>
 <br/>
 <img alt='Git' src='https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic' />
