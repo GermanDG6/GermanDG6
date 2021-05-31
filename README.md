@@ -11,11 +11,10 @@
   Before I changed my professional life I was a sound technician :microphone: and worked in a theatre :classical_building: :loud_sound:. This past made me acquire a lot of **skills**. For example working with **different companies** every week and knowing how to adapt to them :dancers: :man_dancing:. Also knowing how to **work under pressure** and how to **solve any problem** without affecting the show before it started. :clock930:
 
   But I wanted to change my lifestyle and that's why I decided to do the **Ironhack bootcamp**, where during 9 intensive weeks, I laid the foundations of my **programming knowledge**.
-Some of the own projects I did during the bootcamp are:<br/>
-<br/> [OFFROAD IRONBIKE MTB]:(https://github.com/GermanDG6/Proyect-FRONTEND-RMT-FT-MARCH-21-German-Delgado)
-<br/> [MUSICLY]:https://github.com/GermanDG6/backend-proyect2-RMT-FT-MARCH21-GermanDG
-<br/> [APPLANT]:https://github.com/FINAL-PROJECT-RMT-FT-MARCH21
-
+Some of the own projects I did during the bootcamp are:
+<br/> [OFFROAD IRONBIKE MTB]
+<br/> [MUSICLY]
+<br/> [APPLANT]
   **Now** it's time to continue learning and advancing in order to consolidate myself as a professional. I would love to be part of a team where I can contribute with my knowledge and continue to improve and grow as a professional.
 
 ###Technologies:
@@ -55,3 +54,7 @@ Some of the own projects I did during the bootcamp are:<br/>
 [linkedin]: https://www.linkedin.com/in/germandelgadogarcia/
 [Gmail]: mailto:germandg6@gmail.com
 [whatsapp]: https://wa.me/34657216560
+[OFFROAD IRONBIKE MTB]: https://github.com/GermanDG6/Proyect-FRONTEND-RMT-FT-MARCH-21-German-Delgado
+[MUSICLY]:https://github.com/GermanDG6/backend-proyect2-RMT-FT-MARCH21-GermanDG
+[APPLANT]:https://github.com/FINAL-PROJECT-RMT-FT-MARCH21
+
