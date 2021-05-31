@@ -11,7 +11,7 @@
   Before I changed my professional life I was a sound technician :microphone: and worked in a theatre :classical_building: :loud_sound:. This past made me acquire a lot of **skills**. For example working with **different companies** every week and knowing how to adapt to them :dancers: :man_dancing:. Also knowing how to **work under pressure** and how to **solve any problem** without affecting the show before it started. :clock930:
 
   But I wanted to change my lifestyle and that's why I decided to do the **Ironhack bootcamp**, where during 9 intensive weeks, I laid the foundations of my **programming knowledge**.
-Some of the own projects I did during the bootcamp are:
+Some of the personal projects I did during the bootcamp are:
 <br/> [OFFROAD IRONBIKE MTB]
 <br/> [MUSICLY]
 <br/> [APPLANT]
