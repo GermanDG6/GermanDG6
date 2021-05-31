@@ -12,9 +12,9 @@
 
   But I wanted to change my lifestyle and that's why I decided to do the **Ironhack bootcamp**, where during 9 intensive weeks, I laid the foundations of my **programming knowledge**.
 Some of the own projects I did during the bootcamp are:<br/>
-<br/>[OFFROAD IRONBIKE MTB]: https://github.com/GermanDG6/Proyect-FRONTEND-RMT-FT-MARCH-21-German-Delgado
-<br/>[MUSICLY]: https://github.com/GermanDG6/backend-proyect2-RMT-FT-MARCH21-GermanDG
-<br/>[APPLANT]: https://github.com/FINAL-PROJECT-RMT-FT-MARCH21
+<br/> [OFFROAD IRONBIKE MTB]:(https://github.com/GermanDG6/Proyect-FRONTEND-RMT-FT-MARCH-21-German-Delgado)
+<br/> [MUSICLY]:https://github.com/GermanDG6/backend-proyect2-RMT-FT-MARCH21-GermanDG
+<br/> [APPLANT]:https://github.com/FINAL-PROJECT-RMT-FT-MARCH21
 
   **Now** it's time to continue learning and advancing in order to consolidate myself as a professional. I would love to be part of a team where I can contribute with my knowledge and continue to improve and grow as a professional.
 
