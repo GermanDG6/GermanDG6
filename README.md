@@ -19,7 +19,6 @@ Some of the own projects I did during the bootcamp are:
 
 ### Technologies:
 <br/>
-<br/>
 <img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic' />
 <img alt='MongoDB' src='http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&style=plastic' />
 <img alt='ExpressJS' src='http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white&style=plastic' />
@@ -32,19 +31,14 @@ Some of the own projects I did during the bootcamp are:
 <img alt='Canvas' src='https://img.shields.io/badge/-Canvas-E05F2C?logo=canvas&logoColor=white&style=plastic' />
 <img alt='Jasmine' src='https://img.shields.io/badge/-Jasmine-8A4182?logo=jasmine&logoColor=white&style=plastic' />
 <br/>
-<br/>
 
 ### Other utilities:
-<br/>
 <br/>
 <img alt='Git' src='https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic' />
 <img alt='GitHub' src='https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white&style=plastic' />
 <img alt='VSCode' src='https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white&style=plastic' />
 <img alt='Postman' src='https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white&style=plastic' />
 <img alt='Slack' src='https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white&style=plastic' />
-<br/>
-
-<br/>
 <br/>
 
 <img alt='CodeWars' src='https://www.codewars.com/users/GermanDG6/badges/large' />
