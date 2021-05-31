@@ -15,7 +15,7 @@ Some of the own projects I did during the bootcamp are:
 <br/> [OFFROAD IRONBIKE MTB]
 <br/> [MUSICLY]
 <br/> [APPLANT]
-  **Now** it's time to continue learning and advancing in order to consolidate myself as a professional. I would love to be part of a team where I can contribute with my knowledge and continue to improve and grow as a professional.
+<br/>  **Now** it's time to continue learning and advancing in order to consolidate myself as a professional. I would love to be part of a team where I can contribute with my knowledge and continue to improve and grow as a professional.
 
 ###Technologies:
 <br/>
