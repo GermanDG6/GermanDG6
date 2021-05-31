@@ -3,11 +3,22 @@
 [<img align='left' alt=' GermanDG | Gmail' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2018/96/iconmonstr-gmail-2.png' />][Gmail]
 [<img align='left' alt=' GermanDG | Whatsapp' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-whatsapp-2.png' />][whatsapp]
 
-
 <br/><hr>
-### I'm a FullStack Developer trainee.
+### I'm a Junior FullStack Developer.
 
-Technologies:
+I love **nature** :evergreen_tree: and **sport** :mountain_bicyclist: (even more when I combine them :climbing:) and culture in general, but especially **music** :notes:. I am a **curious person** and I love to know why things happen :raised_eyebrow:.
+
+Before I changed my professional life I was a sound technician :microphone: and worked in a theatre :classical_building: :loud_sound:. This past made me acquire a lot of **skills**. For example working with **different companies** every week and knowing how to adapt to them :dancers: :man_dancing:. Also knowing how to **work under pressure** and how to **solve any problem** without affecting the show before it started. :clock930:
+
+But I wanted to change my lifestyle and that's why I decided to do the **Ironhack bootcamp**, where during 9 intensive weeks, I laid the foundations of my **programming knowledge**.
+Some of the own projects I did during the bootcamp are:
+[OFFROAD IRONBIKE MTB]: https://github.com/GermanDG6/Proyect-FRONTEND-RMT-FT-MARCH-21-German-Delgado
+[MUSICLY]: https://github.com/GermanDG6/backend-proyect2-RMT-FT-MARCH21-GermanDG
+[APPLANT]: https://github.com/FINAL-PROJECT-RMT-FT-MARCH21
+
+**Now** it's time to continue learning and advancing in order to consolidate myself as a professional. I would love to be part of a team where I can contribute with my knowledge and continue to improve and grow as a professional.
+
+###Technologies:
 <br/>
 <br/>
 <img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic' />
@@ -24,8 +35,7 @@ Technologies:
 <br/>
 <br/>
 
-
-Other utilities:
+###Other utilities:
 <br/>
 <br/>
 <img alt='Git' src='https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic' />
@@ -39,7 +49,6 @@ Other utilities:
 <br/>
 
 <img alt='CodeWars' src='https://www.codewars.com/users/GermanDG6/badges/large' />
-
 
 ![German's github stats](https://github-readme-stats.vercel.app/api?username=GermanDG6&show_icons=true&theme=tokyonight)
 
