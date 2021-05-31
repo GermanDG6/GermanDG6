@@ -18,7 +18,6 @@ Some of the own projects I did during the bootcamp are:
 <br/>  **Now** it's time to continue learning and advancing in order to consolidate myself as a professional. I would love to be part of a team where I can contribute with my knowledge and continue to improve and grow as a professional.
 
 ### Technologies:
-<br/>
 <img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic' />
 <img alt='MongoDB' src='http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&style=plastic' />
 <img alt='ExpressJS' src='http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white&style=plastic' />
@@ -33,7 +32,6 @@ Some of the own projects I did during the bootcamp are:
 <br/>
 
 ### Other utilities:
-<br/>
 <img alt='Git' src='https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic' />
 <img alt='GitHub' src='https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white&style=plastic' />
 <img alt='VSCode' src='https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white&style=plastic' />
