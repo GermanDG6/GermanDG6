@@ -29,7 +29,6 @@ Some of the own projects I did during the bootcamp are:
 <img alt='Bootstrap' src='https://img.shields.io/badge/-Bootsrap-7952B3?logo=bootstrap&logoColor=white&style=plastic' />
 <img alt='Canvas' src='https://img.shields.io/badge/-Canvas-E05F2C?logo=canvas&logoColor=white&style=plastic' />
 <img alt='Jasmine' src='https://img.shields.io/badge/-Jasmine-8A4182?logo=jasmine&logoColor=white&style=plastic' />
-<br/>
 
 ### Other utilities:
 <img alt='Git' src='https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic' />
