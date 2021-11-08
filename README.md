@@ -4,20 +4,21 @@
 [<img align='left' alt=' GermanDG | Whatsapp' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-whatsapp-2.png' />][whatsapp]
 
 <br/><hr>
-## I'm a Junior FullStack Developer.
+## I'm Germán, a Junior Fullstack Web Developer.
+ In the year 2021, I have reinvented myself and changed my professional career. In March I started the Ironhack Bootcamp remotely, where I did my first projects:
+
+## [OFFROAD IRONBIKE MTB]
+## [MUSICLY]
+## [APPLANT]
+
+ After finishing the Bootcamp, I have continued learning and practising coding, and also I **collaborated** with a few companies like **TeamNOBOX** or **Leadsie**. I am also going to a **coliving/coworking** environment every day, interacting with people from many countries, where I am practising to improve my communication skills in English because my native language is Spanish.
 
   I love **nature** :evergreen_tree: and **sport** :mountain_bicyclist: (even more when I combine them :climbing:) and culture in general, but especially **music** :notes:. I am a **curious person** and I love to know why things happen :raised_eyebrow:.
 
   Before I changed my professional life I was a sound technician :microphone: and worked in a theatre :classical_building: :loud_sound:. This past made me acquire a lot of **skills**. For example working with **different companies** every week and knowing how to adapt to them :dancers: :man_dancing:. Also knowing how to **work under pressure** and how to **solve any problem** without affecting the show before it started. :clock930:
 
-  But I wanted to change my lifestyle and that's why I decided to do the **Ironhack bootcamp**, where during 9 intensive weeks, I laid the foundations of my **programming knowledge**.
-Some of the personal projects I did during the bootcamp are:
-<br/> [OFFROAD IRONBIKE MTB]
-<br/> [MUSICLY]
-<br/> [APPLANT]
-<br/> 
-<br/> **Now** it's time to continue learning and advancing in order to consolidate myself as a professional. I would love to be part of a team where I can contribute with my knowledge and continue to improve and grow as a professional.
-<hr>
+ **Now** it's time to continue learning and advancing in order to consolidate myself as a professional. I would love to be part of a team where I can contribute with my knowledge and continue to improve and grow as a professional.
+
 
 ### Technologies:
 <img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic' />
