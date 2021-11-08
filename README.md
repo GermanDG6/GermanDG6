@@ -1,15 +1,15 @@
-# Hi! I'm German D G :wave:
+### Hi! I'm German D G :wave:
 [<img align='left' alt=' GermanDG | LinkedIn' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2012/96/iconmonstr-linkedin-2.png' />][linkedin]
 [<img align='left' alt=' GermanDG | Gmail' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2018/96/iconmonstr-gmail-2.png' />][Gmail]
 [<img align='left' alt=' GermanDG | Whatsapp' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-whatsapp-2.png' />][whatsapp]
 
 <br/><hr>
-## I'm Germán, a Junior Fullstack Web Developer.
+## I'm a Junior Fullstack Web Developer.
  In the year 2021, I have reinvented myself and changed my professional career. In March I started the Ironhack Bootcamp remotely, where I did my first projects:
 
-## [OFFROAD IRONBIKE MTB]
-## [MUSICLY]
-## [APPLANT]
+# [OFFROAD IRONBIKE MTB]
+# [MUSICLY]
+# [APPLANT]
 
  After finishing the Bootcamp, I have continued learning and practising coding, and also I **collaborated** with a few companies like **TeamNOBOX** or **Leadsie**. I am also going to a **coliving/coworking** environment every day, interacting with people from many countries, where I am practising to improve my communication skills in English because my native language is Spanish.
 
