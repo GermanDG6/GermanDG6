@@ -1,6 +1,6 @@
 # Hi! I'm German D G :wave:
 [<img align='left' alt=' GermanDG | LinkedIn' width='132px' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />][linkedin]
-[<img align='left' alt=' GermanDG | Gmail' width='120px' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />][Gmail]
+[<img align='left' alt=' GermanDG | Gmail' width='115px' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />][Gmail]
 [<img align='left' alt=' GermanDG | Whatsapp' width='132px' src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' />][whatsapp]
 
 <br/><hr>
