@@ -21,11 +21,15 @@
 
 
 ### Technologies:
+<br/>
+<br/>
 <img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic' />
 <img alt='MongoDB' src='http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&style=plastic' />
 <img alt='ExpressJS' src='http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white&style=plastic' />
 <img alt='ReactJS' src='https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white' />
 <img alt='NodeJS' src='https://img.shields.io/badge/-NodeJs-339933?logo=Nodejs&logoColor=white&style=plastic' />
+<br/>
+<br/>
 <img alt='HTML5' src='https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic' />
 <img alt='CSS3' src='https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=plastic' />
 <img alt='Sass' src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white&style=plastic" />
