@@ -1,7 +1,7 @@
 # Hi! I'm German D G :wave:
-[<img align='left' alt=' GermanDG | LinkedIn' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2012/96/iconmonstr-linkedin-2.png' />][linkedin]
-[<img align='left' alt=' GermanDG | Gmail' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2018/96/iconmonstr-gmail-2.png' />][Gmail]
-[<img align='left' alt=' GermanDG | Whatsapp' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-whatsapp-2.png' />][whatsapp]
+[<img align='left' alt=' GermanDG | LinkedIn' width='32px' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />][linkedin]
+[<img align='left' alt=' GermanDG | Gmail' width='32px' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />][Gmail]
+[<img align='left' alt=' GermanDG | Whatsapp' width='32px' src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' />][whatsapp]
 
 <br/><hr>
 ## I'm a Junior Fullstack Web Developer.
