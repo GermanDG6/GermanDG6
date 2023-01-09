@@ -4,7 +4,7 @@
 [<img align='left' alt=' GermanDG | Whatsapp' width='132px' height='32px' src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' />][whatsapp]
 
 <br/><hr>
-## I'm a SOftware Developer.
+## I'm a Software Developer.
  In the year 2021, I have reinvented myself and changed my professional career. I did a Bootcamp remotely, where I did my first projects:
 
 ### [OFFROAD IRONBIKE MTB]
