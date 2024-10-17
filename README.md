@@ -5,21 +5,12 @@
 
 <br/><hr>
 ## I'm a Software Developer.
- In the year 2021, I have reinvented myself and changed my professional career. I did a Bootcamp remotely, where I did my first projects:
-
-### [OFFROAD IRONBIKE MTB]
-### [MUSICLY]
-### [APPLANT]
-
- After finishing the Bootcamp, I have continued learning and practising coding, and also I **collaborated** with a few companies like **TeamNOBOX** or **Leadsie**. I am also going to a **coliving/coworking** environment every day, interacting with people from many countries, where I am practising to improve my communication skills in English because my native language is Spanish.
+ Passionate about best practices, testing, and architecture. 
 
   I love **nature** :evergreen_tree: and **sport** :mountain_bicyclist: (even more when I combine them :climbing:) and culture in general, but especially **music** :notes:. I am a **curious person** and I love to know why things happen :raised_eyebrow:.
 
-  Before I changed my professional life I was a sound technician :microphone: and worked in a theatre :classical_building: :loud_sound:. This past made me acquire a lot of **skills**. 
+  Before I changed my professional life I was a sound technician :microphone: and worked in a theatre :classical_building: :loud_sound:.
 
 [linkedin]: https://www.linkedin.com/in/germandelgadogarcia/
 [Gmail]: mailto:germandg6@gmail.com
 [whatsapp]: https://wa.me/34657216560
-[OFFROAD IRONBIKE MTB]: https://github.com/GermanDG6/Proyect-FRONTEND-RMT-FT-MARCH-21-German-Delgado
-[MUSICLY]:https://github.com/GermanDG6/backend-proyect2-RMT-FT-MARCH21-GermanDG
-[APPLANT]:https://github.com/FINAL-PROJECT-RMT-FT-MARCH21
